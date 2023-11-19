@@ -1,0 +1,13 @@
+.main-wrapper{
+    /* background-color: lightblue; */
+    width: 80%;
+    margin: 10rem auto;
+}
+.card{
+    display: flex;
+    /* background-color: bisque; */
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+    cursor: pointer;
+}
